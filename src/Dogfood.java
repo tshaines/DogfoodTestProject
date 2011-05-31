@@ -6,6 +6,8 @@ public class Dogfood {
 
 		System.out.println("my anaconda don't want none unless you got buns hun...");
 
+		System.out.println("you can do side bends or situps. but please don't lose that butt.");
+
 	}
 
 }
